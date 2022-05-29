@@ -1,4 +1,4 @@
-FROM docker.io/centos7
+FROM centos:7
 
 MAINTAINER admin@turancyberhub
 
